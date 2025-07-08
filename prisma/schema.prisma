@@ -1,0 +1,53 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Session {
+  id        String      @id @default(uuid())
+  name      String
+  password  String?
+  createdAt DateTime @default(now())
+  players   Player[]
+  links     Link[]
+}
+
+model Player {
+  id        Int      @id @default(autoincrement())
+  name      String
+  session   Session  @relation(fields: [sessionId], references: [id])
+  sessionId String
+  pokemon   Pokemon[]
+}
+
+model Pokemon {
+  id        Int      @id @default(autoincrement())
+  species   String
+  pokedexId Int?
+  nickname  String?
+  level     Int
+  status    String   // e.g., 'alive', 'fainted', 'dead'
+  location  String   // e.g., 'team', 'box', 'released'
+  player    Player   @relation(fields: [playerId], references: [id])
+  playerId  Int
+  linksA    Link[]   @relation("PokemonA", onDelete: CASCADE)
+  linksB    Link[]   @relation("PokemonB", onDelete: CASCADE)
+}
+
+model Link {
+  id         Int      @id @default(autoincrement())
+  session    Session  @relation(fields: [sessionId], references: [id])
+  sessionId  String
+  pokemonA   Pokemon  @relation("PokemonA", fields: [pokemonAId], references: [id])
+  pokemonAId Int
+  pokemonB   Pokemon  @relation("PokemonB", fields: [pokemonBId], references: [id])
+  pokemonBId Int
+}
