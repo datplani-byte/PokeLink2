@@ -252,6 +252,43 @@ app.get('/api/pokemon', async (req, res) => {
   }
 });
 
+// List team Pokémon for a player, ordered by link id
+app.get('/api/players/:playerId/team', async (req, res) => {
+  try {
+    const playerId = parseInt(req.params.playerId);
+    // Fetch Pokémon in team with their links (as A or B)
+    const pokemon = await prisma.pokemon.findMany({
+      where: {
+        playerId,
+        location: 'team',
+      },
+      include: {
+        linksA: true,
+        linksB: true,
+      },
+    });
+
+    // For each Pokémon, get their link id (should only have one link)
+    const pokemonWithLinkId = pokemon.map(p => {
+      // Each Pokémon should only have one link (either as A or B)
+      const link = (p.linksA[0] || p.linksB[0]) || null;
+      return { ...p, linkId: link ? link.id : null };
+    });
+
+    // Order by linkId ascending (all should have a link, but just in case)
+    pokemonWithLinkId.sort((a, b) => {
+      if (a.linkId === null && b.linkId === null) return 0;
+      if (a.linkId === null) return 1;
+      if (b.linkId === null) return -1;
+      return a.linkId - b.linkId;
+    });
+
+    res.json(pokemonWithLinkId);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // --- Links ---
 // List links in a session
 app.get('/api/sessions/:sessionId/links', async (req, res) => {

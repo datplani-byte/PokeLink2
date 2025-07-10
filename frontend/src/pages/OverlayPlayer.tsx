@@ -21,8 +21,10 @@ const OverlayPlayer: React.FC = () => {
       const sessionData = await sessionRes.json();
       const player = sessionData.players.find((p: any) => p.name.toLowerCase() === String(playerName).toLowerCase());
       if (!player) return setTeam([]);
-      // Only show Pokémon in the team
-      const teamMons = (player.pokemon || []).filter((p: Pokemon) => p.location === 'team');
+      // Fetch team from new endpoint (ordered by link id)
+      const teamRes = await fetch(`/api/players/${player.id}/team`);
+      if (!teamRes.ok) return setTeam([]);
+      const teamMons = await teamRes.json();
       setTeam(teamMons);
     };
     fetchTeam();
