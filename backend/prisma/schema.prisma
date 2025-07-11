@@ -38,8 +38,8 @@ model Pokemon {
   location  String   // e.g., 'team', 'box', 'released'
   player    Player   @relation(fields: [playerId], references: [id])
   playerId  Int
-  linksA    Link[]   @relation("PokemonA", onDelete: CASCADE)
-  linksB    Link[]   @relation("PokemonB", onDelete: CASCADE)
+  linksA    Link[]   @relation("PokemonA")
+  linksB    Link[]   @relation("PokemonB")
 }
 
 model Link {
