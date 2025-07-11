@@ -1,6 +1,27 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 
+// Shared style for inputs and buttons to match Session.tsx
+const inputLikeSelectStyle = {
+  height: 40,
+  border: '1px solid #ccc',
+  borderRadius: 4,
+  padding: '0 12px',
+  fontSize: 16,
+  background: '#fff',
+  minWidth: 0,
+  boxSizing: 'border-box' as const,
+};
+
+const blockStyle = {
+  background: '#f7f7f7',
+  border: '1px solid #ddd',
+  borderRadius: 12,
+  padding: '1.5rem',
+  marginBottom: '2rem',
+  boxShadow: '0 2px 8px rgba(0,0,0,0.03)',
+};
+
 const Home: React.FC = () => {
   const [sessionName, setSessionName] = useState('');
   const [sessionPassword, setSessionPassword] = useState('');
@@ -105,59 +126,71 @@ const Home: React.FC = () => {
 
   return (
     <div style={{ maxWidth: 500, margin: '2rem auto' }}>
-      <h2>Create Session</h2>
-      <form onSubmit={handleCreate}>
-        <input
-          type="text"
-          placeholder="Session Name"
-          value={sessionName}
-          onChange={e => setSessionName(e.target.value)}
-          required
-        />
-        <input
-          type="password"
-          placeholder="Password (optional)"
-          value={sessionPassword}
-          onChange={e => setSessionPassword(e.target.value)}
-        />
-        <button type="submit" disabled={loading}>Create</button>
-      </form>
-      <h2>Join Session</h2>
-      <input
-        type="text"
-        placeholder="Search by name"
-        value={search}
-        onChange={e => setSearch(e.target.value)}
-        style={{ marginBottom: 8, width: '100%' }}
-      />
-      {loading && <div>Loading...</div>}
-      {error && <div style={{ color: 'red' }}>{error}</div>}
-      <ul>
-        {filteredSessions.map(session => (
-          <li key={session.id} style={{ marginBottom: 8 }}>
-            <span>{session.name}</span>
-            <button style={{ marginLeft: 8 }} onClick={() => handleJoinClick(session.id)}>
-              Join
-            </button>
-          </li>
-        ))}
-      </ul>
-      {showPasswordPrompt && (
-        <form onSubmit={handlePasswordSubmit} style={{ marginTop: 16 }}>
+      <div style={blockStyle}>
+        <h2>Create Session</h2>
+        <form onSubmit={handleCreate}>
+          <input
+            type="text"
+            placeholder="Session Name"
+            value={sessionName}
+            onChange={e => setSessionName(e.target.value)}
+            required
+            style={{ ...inputLikeSelectStyle, width: '100%', marginBottom: 8 }}
+          />
           <input
             type="password"
-            placeholder="Session Password"
-            value={joinPassword}
-            onChange={e => setJoinPassword(e.target.value)}
-            required
+            placeholder="Password (optional)"
+            value={sessionPassword}
+            onChange={e => setSessionPassword(e.target.value)}
+            style={{ ...inputLikeSelectStyle, width: '100%', marginBottom: 8 }}
           />
-          <button type="submit" disabled={loading}>Enter</button>
-          <button type="button" onClick={() => setShowPasswordPrompt(false)} style={{ marginLeft: 8 }}>
-            Cancel
-          </button>
-          {joinError && <div style={{ color: 'red' }}>{joinError}</div>}
+          <button type="submit" disabled={loading} style={{ ...inputLikeSelectStyle, width: '100%', cursor: 'pointer' }}>Create</button>
         </form>
-      )}
+      </div>
+      <div style={blockStyle}>
+        <h2>Join Session</h2>
+        <input
+          type="text"
+          placeholder="Search by name"
+          value={search}
+          onChange={e => setSearch(e.target.value)}
+          style={{ ...inputLikeSelectStyle, marginBottom: 8, width: '100%' }}
+        />
+        {loading && <div>Loading...</div>}
+        {error && <div style={{ color: 'red' }}>{error}</div>}
+        <ul style={{ paddingLeft: 0, listStyle: 'none' }}>
+          {filteredSessions.map(session => (
+            <li key={session.id} style={{ marginBottom: 8, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+              <span>{session.name}</span>
+              <button
+                style={{ ...inputLikeSelectStyle, height: 32, padding: '0 16px', fontSize: 15, marginLeft: 8, cursor: 'pointer', width: 'auto' }}
+                onClick={() => handleJoinClick(session.id)}
+              >
+                Join
+              </button>
+            </li>
+          ))}
+        </ul>
+        {showPasswordPrompt && (
+          <form onSubmit={handlePasswordSubmit} style={{ marginTop: 16 }}>
+            <input
+              type="password"
+              placeholder="Session Password"
+              value={joinPassword}
+              onChange={e => setJoinPassword(e.target.value)}
+              required
+              style={{ ...inputLikeSelectStyle, width: '100%', marginBottom: 8 }}
+            />
+            <div style={{ display: 'flex', gap: 8 }}>
+              <button type="submit" disabled={loading} style={{ ...inputLikeSelectStyle, flex: 1, cursor: 'pointer' }}>Enter</button>
+              <button type="button" onClick={() => setShowPasswordPrompt(false)} style={{ ...inputLikeSelectStyle, flex: 1, cursor: 'pointer', background: '#eee' }}>
+                Cancel
+              </button>
+            </div>
+            {joinError && <div style={{ color: 'red', marginTop: 8 }}>{joinError}</div>}
+          </form>
+        )}
+      </div>
     </div>
   );
 };
