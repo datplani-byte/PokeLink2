@@ -25,14 +25,22 @@ interface SessionData {
   links: any[];
 }
 
+interface PokedexEntry {
+  id: number;
+  name: string;
+  type_primary: string;
+  type_secondary: string | null;
+}
+
 // Custom option for react-select with sprite
 const SpeciesOption = (props: any) => (
   <selectComponents.Option {...props}>
     <img
-      src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${props.data.id}.png`}
+      src={`/sprites/${props.data.id}.png`}
       alt={props.data.label}
       style={{ width: 32, height: 32, marginRight: 8, verticalAlign: 'middle' }}
       loading="lazy"
+      onError={e => { (e.target as HTMLImageElement).src = '/sprites/359.png'; }}
     />
     {props.data.label}
   </selectComponents.Option>
@@ -40,10 +48,11 @@ const SpeciesOption = (props: any) => (
 const SpeciesSingleValue = (props: any) => (
   <selectComponents.SingleValue {...props}>
     <img
-      src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${props.data.id}.png`}
+      src={`/sprites/${props.data.id}.png`}
       alt={props.data.label}
       style={{ width: 32, height: 32, marginRight: 8, verticalAlign: 'middle' }}
       loading="lazy"
+      onError={e => { (e.target as HTMLImageElement).src = '/sprites/359.png'; }}
     />
     {props.data.label}
   </selectComponents.SingleValue>
@@ -108,27 +117,23 @@ const Session: React.FC = () => {
   }, [sessionId]);
 
   useEffect(() => {
-    const fetchSpecies = async () => {
-      setSpeciesLoading(true);
-      setSpeciesError('');
-      try {
-        const res = await fetch('https://pokeapi.co/api/v2/pokemon?limit=1010');
-        if (!res.ok) throw new Error('Failed to fetch Pokémon list');
-        const data = await res.json();
-        // The results are in order by Pokédex ID
-        const options = data.results.map((p: any, idx: number) => ({
-          value: p.name.charAt(0).toUpperCase() + p.name.slice(1),
-          label: `${p.name.charAt(0).toUpperCase() + p.name.slice(1)}`,
-          id: idx + 1,
+    setSpeciesLoading(true);
+    setSpeciesError('');
+    fetch('/pokedex_de.json')
+      .then(res => {
+        if (!res.ok) throw new Error('Failed to load Pokédex');
+        return res.json();
+      })
+      .then((data: PokedexEntry[]) => {
+        const options = data.map(entry => ({
+          value: entry.name,
+          label: entry.name,
+          id: entry.id,
         }));
         setSpeciesOptions(options);
-      } catch (err: any) {
-        setSpeciesError(err.message);
-      } finally {
-        setSpeciesLoading(false);
-      }
-    };
-    fetchSpecies();
+      })
+      .catch(err => setSpeciesError(err.message))
+      .finally(() => setSpeciesLoading(false));
   }, []);
 
   const handleAddPlayer = async (e: React.FormEvent) => {
@@ -323,10 +328,11 @@ const Session: React.FC = () => {
                         gap: 12
                       }}>
                         <img
-                          src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.pokedexId || 359}.png`}
+                          src={`/sprites/${p.pokedexId || 359}.png`}
                           alt={p.species}
                           style={{ width: 40, height: 40, flexShrink: 0 }}
                           loading="lazy"
+                          onError={e => { (e.target as HTMLImageElement).src = '/sprites/359.png'; }}
                         />
                         <div style={{ flex: 1, minWidth: 0 }}>
                           {editingPokemonId === p.id ? (
@@ -475,10 +481,11 @@ const Session: React.FC = () => {
                 const displayA = (
                   <>
                     <img
-                      src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${link.pokemonA?.pokedexId || 359}.png`}
+                      src={`/sprites/${link.pokemonA?.pokedexId || 359}.png`}
                       alt={link.pokemonA?.species}
                       style={{ width: 32, height: 32, marginRight: 8, verticalAlign: 'middle' }}
                       loading="lazy"
+                      onError={e => { (e.target as HTMLImageElement).src = '/sprites/359.png'; }}
                     />
                     {link.pokemonA?.nickname ? `${link.pokemonA.nickname} (${link.pokemonA.species})` : link.pokemonA?.species || 'Pokémon'}
                   </>
@@ -486,10 +493,11 @@ const Session: React.FC = () => {
                 const displayB = (
                   <>
                     <img
-                      src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${link.pokemonB?.pokedexId || 359}.png`}
+                      src={`/sprites/${link.pokemonB?.pokedexId || 359}.png`}
                       alt={link.pokemonB?.species}
                       style={{ width: 32, height: 32, marginRight: 8, verticalAlign: 'middle' }}
                       loading="lazy"
+                      onError={e => { (e.target as HTMLImageElement).src = '/sprites/359.png'; }}
                     />
                     {link.pokemonB?.nickname ? `${link.pokemonB.nickname} (${link.pokemonB.species})` : link.pokemonB?.species || 'Pokémon'}
                   </>

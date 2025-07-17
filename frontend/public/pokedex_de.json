@@ -1,0 +1,6152 @@
+[
+  {
+    "id": 1,
+    "name": "Bisasam",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 2,
+    "name": "Bisaknosp",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 3,
+    "name": "Bisaflor",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 4,
+    "name": "Glumanda",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 5,
+    "name": "Glutexo",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 6,
+    "name": "Glurak",
+    "type_primary": "Feuer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 7,
+    "name": "Schiggy",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 8,
+    "name": "Schillok",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 9,
+    "name": "Turtok",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 10,
+    "name": "Raupy",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 11,
+    "name": "Safcon",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 12,
+    "name": "Smettbo",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 13,
+    "name": "Hornliu",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 14,
+    "name": "Kokuna",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 15,
+    "name": "Bibor",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 16,
+    "name": "Taubsi",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 17,
+    "name": "Tauboga",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 18,
+    "name": "Tauboss",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 19,
+    "name": "Rattfratz",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 20,
+    "name": "Rattikarl",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 21,
+    "name": "Habitak",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 22,
+    "name": "Ibitak",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 23,
+    "name": "Rettan",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 27,
+    "name": "Sandan",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 28,
+    "name": "Sandamer",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "type_primary": "Gift",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "type_primary": "Gift",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 35,
+    "name": "Piepi",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 36,
+    "name": "Pixi",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 38,
+    "name": "Vulnona",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 39,
+    "name": "Pummeluff",
+    "type_primary": "Normal",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 40,
+    "name": "Knuddeluff",
+    "type_primary": "Normal",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "type_primary": "Gift",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "type_primary": "Gift",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 43,
+    "name": "Myrapla",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 44,
+    "name": "Duflor",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 45,
+    "name": "Giflor",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "type_primary": "Käfer",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 47,
+    "name": "Parasek",
+    "type_primary": "Käfer",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 48,
+    "name": "Bluzuk",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 49,
+    "name": "Omot",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 50,
+    "name": "Digda",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 51,
+    "name": "Digdri",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 52,
+    "name": "Mauzi",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 53,
+    "name": "Snobilikat",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 54,
+    "name": "Enton",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 55,
+    "name": "Entoron",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 56,
+    "name": "Menki",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 57,
+    "name": "Rasaff",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 58,
+    "name": "Fukano",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 59,
+    "name": "Arkani",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 60,
+    "name": "Quapsel",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 61,
+    "name": "Quaputzi",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 62,
+    "name": "Quappo",
+    "type_primary": "Wasser",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 65,
+    "name": "Simsala",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 66,
+    "name": "Machollo",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 67,
+    "name": "Maschock",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 68,
+    "name": "Machomei",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 69,
+    "name": "Knofensa",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 70,
+    "name": "Ultrigaria",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 71,
+    "name": "Sarzenia",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 72,
+    "name": "Tentacha",
+    "type_primary": "Wasser",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 73,
+    "name": "Tentoxa",
+    "type_primary": "Wasser",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 74,
+    "name": "Kleinstein",
+    "type_primary": "Gestein",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 75,
+    "name": "Georok",
+    "type_primary": "Gestein",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 76,
+    "name": "Geowaz",
+    "type_primary": "Gestein",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 77,
+    "name": "Ponita",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 78,
+    "name": "Gallopa",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 79,
+    "name": "Flegmon",
+    "type_primary": "Wasser",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 80,
+    "name": "Lahmus",
+    "type_primary": "Wasser",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 81,
+    "name": "Magnetilo",
+    "type_primary": "Elektro",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "type_primary": "Elektro",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 83,
+    "name": "Porenta",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 84,
+    "name": "Dodu",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 85,
+    "name": "Dodri",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 86,
+    "name": "Jurob",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 87,
+    "name": "Jugong",
+    "type_primary": "Wasser",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 88,
+    "name": "Sleima",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 89,
+    "name": "Sleimok",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 90,
+    "name": "Muschas",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 91,
+    "name": "Austos",
+    "type_primary": "Wasser",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 92,
+    "name": "Nebulak",
+    "type_primary": "Geist",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 93,
+    "name": "Alpollo",
+    "type_primary": "Geist",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "type_primary": "Geist",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "type_primary": "Gestein",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 96,
+    "name": "Traumato",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 100,
+    "name": "Voltobal",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 101,
+    "name": "Lektrobal",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 102,
+    "name": "Owei",
+    "type_primary": "Pflanze",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 103,
+    "name": "Kokowei",
+    "type_primary": "Pflanze",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 104,
+    "name": "Tragosso",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 105,
+    "name": "Knogga",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 106,
+    "name": "Kicklee",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 107,
+    "name": "Nockchan",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 108,
+    "name": "Schlurp",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 109,
+    "name": "Smogon",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 110,
+    "name": "Smogmog",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 111,
+    "name": "Rihorn",
+    "type_primary": "Boden",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 112,
+    "name": "Rizeros",
+    "type_primary": "Boden",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 113,
+    "name": "Chaneira",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 115,
+    "name": "Kangama",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 116,
+    "name": "Seeper",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 117,
+    "name": "Seemon",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 118,
+    "name": "Goldini",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 119,
+    "name": "Golking",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 120,
+    "name": "Sterndu",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "type_primary": "Wasser",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 122,
+    "name": "Pantimos",
+    "type_primary": "Psycho",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 123,
+    "name": "Sichlor",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 124,
+    "name": "Rossana",
+    "type_primary": "Eis",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 125,
+    "name": "Elektek",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 129,
+    "name": "Karpador",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 130,
+    "name": "Garados",
+    "type_primary": "Wasser",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "type_primary": "Wasser",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 133,
+    "name": "Evoli",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 134,
+    "name": "Aquana",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 135,
+    "name": "Blitza",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 136,
+    "name": "Flamara",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 138,
+    "name": "Amonitas",
+    "type_primary": "Gestein",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 139,
+    "name": "Amoroso",
+    "type_primary": "Gestein",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "type_primary": "Gestein",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "type_primary": "Gestein",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "type_primary": "Gestein",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 143,
+    "name": "Relaxo",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 144,
+    "name": "Arktos",
+    "type_primary": "Eis",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "type_primary": "Elektro",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 146,
+    "name": "Lavados",
+    "type_primary": "Feuer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 148,
+    "name": "Dragonir",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 149,
+    "name": "Dragoran",
+    "type_primary": "Drache",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 150,
+    "name": "Mewtu",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 152,
+    "name": "Endivie",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 153,
+    "name": "Lorblatt",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 154,
+    "name": "Meganie",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 155,
+    "name": "Feurigel",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 156,
+    "name": "Igelavar",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 157,
+    "name": "Tornupto",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 158,
+    "name": "Karnimani",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 159,
+    "name": "Tyracroc",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 160,
+    "name": "Impergator",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 161,
+    "name": "Wiesor",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 162,
+    "name": "Wiesenior",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 163,
+    "name": "Hoothoot",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 164,
+    "name": "Noctuh",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 165,
+    "name": "Ledyba",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 166,
+    "name": "Ledian",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 167,
+    "name": "Webarak",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 168,
+    "name": "Ariados",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 169,
+    "name": "Iksbat",
+    "type_primary": "Gift",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 170,
+    "name": "Lampi",
+    "type_primary": "Wasser",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 171,
+    "name": "Lanturn",
+    "type_primary": "Wasser",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 172,
+    "name": "Pichu",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 173,
+    "name": "Pii",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 174,
+    "name": "Fluffeluff",
+    "type_primary": "Normal",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 175,
+    "name": "Togepi",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 176,
+    "name": "Togetic",
+    "type_primary": "Fee",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 177,
+    "name": "Natu",
+    "type_primary": "Psycho",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 178,
+    "name": "Xatu",
+    "type_primary": "Psycho",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 179,
+    "name": "Voltilamm",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 180,
+    "name": "Waaty",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 181,
+    "name": "Ampharos",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 182,
+    "name": "Blubella",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 183,
+    "name": "Marill",
+    "type_primary": "Wasser",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 184,
+    "name": "Azumarill",
+    "type_primary": "Wasser",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 185,
+    "name": "Mogelbaum",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 186,
+    "name": "Quaxo",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 187,
+    "name": "Hoppspross",
+    "type_primary": "Pflanze",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 188,
+    "name": "Hubelupf",
+    "type_primary": "Pflanze",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 189,
+    "name": "Papungha",
+    "type_primary": "Pflanze",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 190,
+    "name": "Griffel",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 191,
+    "name": "Sonnkern",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 192,
+    "name": "Sonnflora",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 193,
+    "name": "Yanma",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 194,
+    "name": "Felino",
+    "type_primary": "Wasser",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 195,
+    "name": "Morlord",
+    "type_primary": "Wasser",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 196,
+    "name": "Psiana",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 197,
+    "name": "Nachtara",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 198,
+    "name": "Kramurx",
+    "type_primary": "Unlicht",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 199,
+    "name": "Laschoking",
+    "type_primary": "Wasser",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 200,
+    "name": "Traunfugil",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 201,
+    "name": "Icognito",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 202,
+    "name": "Woingenau",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 203,
+    "name": "Girafarig",
+    "type_primary": "Normal",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 204,
+    "name": "Tannza",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 205,
+    "name": "Forstellka",
+    "type_primary": "Käfer",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 206,
+    "name": "Dummisel",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 207,
+    "name": "Skorgla",
+    "type_primary": "Boden",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 208,
+    "name": "Stahlos",
+    "type_primary": "Stahl",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 209,
+    "name": "Snubbull",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 210,
+    "name": "Granbull",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 211,
+    "name": "Baldorfish",
+    "type_primary": "Wasser",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 212,
+    "name": "Scherox",
+    "type_primary": "Käfer",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 213,
+    "name": "Pottrott",
+    "type_primary": "Käfer",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 214,
+    "name": "Skaraborn",
+    "type_primary": "Käfer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 215,
+    "name": "Sniebel",
+    "type_primary": "Unlicht",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 216,
+    "name": "Teddiursa",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 217,
+    "name": "Ursaring",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 218,
+    "name": "Schneckmag",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 219,
+    "name": "Magcargo",
+    "type_primary": "Feuer",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 220,
+    "name": "Quiekel",
+    "type_primary": "Eis",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 221,
+    "name": "Keifel",
+    "type_primary": "Eis",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 222,
+    "name": "Corasonn",
+    "type_primary": "Wasser",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 223,
+    "name": "Remoraid",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 224,
+    "name": "Octillery",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 225,
+    "name": "Botogel",
+    "type_primary": "Eis",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 226,
+    "name": "Mantax",
+    "type_primary": "Wasser",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 227,
+    "name": "Panzaeron",
+    "type_primary": "Stahl",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 228,
+    "name": "Hunduster",
+    "type_primary": "Unlicht",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 229,
+    "name": "Hundemon",
+    "type_primary": "Unlicht",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 230,
+    "name": "Seedraking",
+    "type_primary": "Wasser",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 231,
+    "name": "Phanpy",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 232,
+    "name": "Donphan",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 233,
+    "name": "Porygon2",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 234,
+    "name": "Damhirplex",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 235,
+    "name": "Farbeagle",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 236,
+    "name": "Rabauz",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 237,
+    "name": "Kapoera",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 238,
+    "name": "Kussilla",
+    "type_primary": "Eis",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 239,
+    "name": "Elekid",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 240,
+    "name": "Magby",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 241,
+    "name": "Miltank",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 242,
+    "name": "Heiteira",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 243,
+    "name": "Raikou",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 244,
+    "name": "Entei",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 245,
+    "name": "Suicune",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 246,
+    "name": "Larvitar",
+    "type_primary": "Gestein",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 247,
+    "name": "Pupitar",
+    "type_primary": "Gestein",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 248,
+    "name": "Despotar",
+    "type_primary": "Gestein",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 249,
+    "name": "Lugia",
+    "type_primary": "Psycho",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 250,
+    "name": "Ho-Oh",
+    "type_primary": "Feuer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 251,
+    "name": "Celebi",
+    "type_primary": "Psycho",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 252,
+    "name": "Geckarbor",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 253,
+    "name": "Reptain",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 254,
+    "name": "Gewaldro",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 255,
+    "name": "Flemmli",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 256,
+    "name": "Jungglut",
+    "type_primary": "Feuer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 257,
+    "name": "Lohgock",
+    "type_primary": "Feuer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 258,
+    "name": "Hydropi",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 259,
+    "name": "Moorabbel",
+    "type_primary": "Wasser",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 260,
+    "name": "Sumpex",
+    "type_primary": "Wasser",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 261,
+    "name": "Fiffyen",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 262,
+    "name": "Magnayen",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 263,
+    "name": "Zigzachs",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 264,
+    "name": "Geradaks",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 265,
+    "name": "Waumpel",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 266,
+    "name": "Schaloko",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 267,
+    "name": "Papinella",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 268,
+    "name": "Panekon",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 269,
+    "name": "Pudox",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 270,
+    "name": "Loturzel",
+    "type_primary": "Wasser",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 271,
+    "name": "Lombrero",
+    "type_primary": "Wasser",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 272,
+    "name": "Kappalores",
+    "type_primary": "Wasser",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 273,
+    "name": "Samurzel",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 274,
+    "name": "Blanas",
+    "type_primary": "Pflanze",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 275,
+    "name": "Tengulist",
+    "type_primary": "Pflanze",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 276,
+    "name": "Schwalbini",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 277,
+    "name": "Schwalboss",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 278,
+    "name": "Wingull",
+    "type_primary": "Wasser",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 279,
+    "name": "Pelipper",
+    "type_primary": "Wasser",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 280,
+    "name": "Trasla",
+    "type_primary": "Psycho",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 281,
+    "name": "Kirlia",
+    "type_primary": "Psycho",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 282,
+    "name": "Guardevoir",
+    "type_primary": "Psycho",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 283,
+    "name": "Gehweiher",
+    "type_primary": "Käfer",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 284,
+    "name": "Maskeregen",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 285,
+    "name": "Knilz",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 286,
+    "name": "Kapilz",
+    "type_primary": "Pflanze",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 287,
+    "name": "Bummelz",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 288,
+    "name": "Muntier",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 289,
+    "name": "Letarking",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 290,
+    "name": "Nincada",
+    "type_primary": "Käfer",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 291,
+    "name": "Ninjask",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 292,
+    "name": "Ninjatom",
+    "type_primary": "Käfer",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 293,
+    "name": "Flurmel",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 294,
+    "name": "Krakeelo",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 295,
+    "name": "Krawumms",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 296,
+    "name": "Makuhita",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 297,
+    "name": "Hariyama",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 298,
+    "name": "Azurill",
+    "type_primary": "Normal",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 299,
+    "name": "Nasgnet",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 300,
+    "name": "Eneco",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 301,
+    "name": "Enekoro",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 302,
+    "name": "Zobiris",
+    "type_primary": "Unlicht",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 303,
+    "name": "Flunkifer",
+    "type_primary": "Stahl",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 304,
+    "name": "Stollunior",
+    "type_primary": "Stahl",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 305,
+    "name": "Stollrak",
+    "type_primary": "Stahl",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 306,
+    "name": "Stolloss",
+    "type_primary": "Stahl",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 307,
+    "name": "Meditie",
+    "type_primary": "Kampf",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 308,
+    "name": "Meditalis",
+    "type_primary": "Kampf",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 309,
+    "name": "Frizelbliz",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 310,
+    "name": "Voltenso",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 311,
+    "name": "Plusle",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 312,
+    "name": "Minun",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 313,
+    "name": "Volbeat",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 314,
+    "name": "Illumise",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 315,
+    "name": "Roselia",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 316,
+    "name": "Schluppuck",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 317,
+    "name": "Schlukwech",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 318,
+    "name": "Kanivanha",
+    "type_primary": "Wasser",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 319,
+    "name": "Tohaido",
+    "type_primary": "Wasser",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 320,
+    "name": "Wailmer",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 321,
+    "name": "Wailord",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 322,
+    "name": "Camaub",
+    "type_primary": "Feuer",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 323,
+    "name": "Camerupt",
+    "type_primary": "Feuer",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 324,
+    "name": "Qurtel",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 325,
+    "name": "Spoink",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 326,
+    "name": "Groink",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 327,
+    "name": "Pandir",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 328,
+    "name": "Knacklion",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 329,
+    "name": "Vibrava",
+    "type_primary": "Boden",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 330,
+    "name": "Libelldra",
+    "type_primary": "Boden",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 331,
+    "name": "Tuska",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 332,
+    "name": "Noktuska",
+    "type_primary": "Pflanze",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 333,
+    "name": "Wablu",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 334,
+    "name": "Altaria",
+    "type_primary": "Drache",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 335,
+    "name": "Sengo",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 336,
+    "name": "Vipitis",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 337,
+    "name": "Lunastein",
+    "type_primary": "Gestein",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 338,
+    "name": "Sonnfel",
+    "type_primary": "Gestein",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 339,
+    "name": "Schmerbe",
+    "type_primary": "Wasser",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 340,
+    "name": "Welsar",
+    "type_primary": "Wasser",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 341,
+    "name": "Krebscorps",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 342,
+    "name": "Krebutack",
+    "type_primary": "Wasser",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 343,
+    "name": "Puppance",
+    "type_primary": "Boden",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 344,
+    "name": "Lepumentas",
+    "type_primary": "Boden",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 345,
+    "name": "Liliep",
+    "type_primary": "Gestein",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 346,
+    "name": "Wielie",
+    "type_primary": "Gestein",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 347,
+    "name": "Anorith",
+    "type_primary": "Gestein",
+    "type_secondary": "Käfer"
+  },
+  {
+    "id": 348,
+    "name": "Armaldo",
+    "type_primary": "Gestein",
+    "type_secondary": "Käfer"
+  },
+  {
+    "id": 349,
+    "name": "Barschwa",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 350,
+    "name": "Milotic",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 351,
+    "name": "Formeo",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 352,
+    "name": "Kecleon",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 353,
+    "name": "Shuppet",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 354,
+    "name": "Banette",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 355,
+    "name": "Zwirrlicht",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 356,
+    "name": "Zwirrklop",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 357,
+    "name": "Tropius",
+    "type_primary": "Pflanze",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 358,
+    "name": "Palimpalim",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 359,
+    "name": "Absol",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 360,
+    "name": "Isso",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 361,
+    "name": "Schneppke",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 362,
+    "name": "Firnontor",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 363,
+    "name": "Seemops",
+    "type_primary": "Eis",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 364,
+    "name": "Seejong",
+    "type_primary": "Eis",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 365,
+    "name": "Walraisa",
+    "type_primary": "Eis",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 366,
+    "name": "Perlu",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 367,
+    "name": "Aalabyss",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 368,
+    "name": "Saganabyss",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 369,
+    "name": "Relicanth",
+    "type_primary": "Wasser",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 370,
+    "name": "Liebiskus",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 371,
+    "name": "Kindwurm",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 372,
+    "name": "Draschel",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 373,
+    "name": "Brutalanda",
+    "type_primary": "Drache",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 374,
+    "name": "Tanhel",
+    "type_primary": "Stahl",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 375,
+    "name": "Metang",
+    "type_primary": "Stahl",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 376,
+    "name": "Metagross",
+    "type_primary": "Stahl",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 377,
+    "name": "Regirock",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 378,
+    "name": "Regice",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 379,
+    "name": "Registeel",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 380,
+    "name": "Latias",
+    "type_primary": "Drache",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 381,
+    "name": "Latios",
+    "type_primary": "Drache",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 382,
+    "name": "Kyogre",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 383,
+    "name": "Groudon",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 384,
+    "name": "Rayquaza",
+    "type_primary": "Drache",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 385,
+    "name": "Jirachi",
+    "type_primary": "Stahl",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 386,
+    "name": "Deoxys",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 387,
+    "name": "Chelast",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 388,
+    "name": "Chelcarain",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 389,
+    "name": "Chelterrar",
+    "type_primary": "Pflanze",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 390,
+    "name": "Panflam",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 391,
+    "name": "Panpyro",
+    "type_primary": "Feuer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 392,
+    "name": "Panferno",
+    "type_primary": "Feuer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 393,
+    "name": "Plinfa",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 394,
+    "name": "Pliprin",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 395,
+    "name": "Impoleon",
+    "type_primary": "Wasser",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 396,
+    "name": "Staralili",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 397,
+    "name": "Staravia",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 398,
+    "name": "Staraptor",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 399,
+    "name": "Bidiza",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 400,
+    "name": "Bidifas",
+    "type_primary": "Normal",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 401,
+    "name": "Zirpurze",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 402,
+    "name": "Zirpeise",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 403,
+    "name": "Sheinux",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 404,
+    "name": "Luxio",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 405,
+    "name": "Luxtra",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 406,
+    "name": "Knospi",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 407,
+    "name": "Roserade",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 408,
+    "name": "Koknodon",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 409,
+    "name": "Rameidon",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 410,
+    "name": "Schilterus",
+    "type_primary": "Gestein",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 411,
+    "name": "Bollterus",
+    "type_primary": "Gestein",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 412,
+    "name": "Burmy",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 413,
+    "name": "Burmadame",
+    "type_primary": "Käfer",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 414,
+    "name": "Moterpel",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 415,
+    "name": "Wadribie",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 416,
+    "name": "Honweisel",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 417,
+    "name": "Pachirisu",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 418,
+    "name": "Bamelin",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 419,
+    "name": "Bojelin",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 420,
+    "name": "Kikugi",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 421,
+    "name": "Kinoso",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 422,
+    "name": "Schalellos",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 423,
+    "name": "Gastrodon",
+    "type_primary": "Wasser",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 424,
+    "name": "Ambidiffel",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 425,
+    "name": "Driftlon",
+    "type_primary": "Geist",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 426,
+    "name": "Drifzepeli",
+    "type_primary": "Geist",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 427,
+    "name": "Haspiror",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 428,
+    "name": "Schlapor",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 429,
+    "name": "Traunmagil",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 430,
+    "name": "Kramshef",
+    "type_primary": "Unlicht",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 431,
+    "name": "Charmian",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 432,
+    "name": "Shnurgarst",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 433,
+    "name": "Klingplim",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 434,
+    "name": "Skunkapuh",
+    "type_primary": "Gift",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 435,
+    "name": "Skuntank",
+    "type_primary": "Gift",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 436,
+    "name": "Bronzel",
+    "type_primary": "Stahl",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 437,
+    "name": "Bronzong",
+    "type_primary": "Stahl",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 438,
+    "name": "Mobai",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 439,
+    "name": "Pantimimi",
+    "type_primary": "Psycho",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 440,
+    "name": "Wonneira",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 441,
+    "name": "Plaudagei",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 442,
+    "name": "Kryppuk",
+    "type_primary": "Geist",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 443,
+    "name": "Kaumalat",
+    "type_primary": "Drache",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 444,
+    "name": "Knarksel",
+    "type_primary": "Drache",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 445,
+    "name": "Knakrack",
+    "type_primary": "Drache",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 446,
+    "name": "Mampfaxo",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 447,
+    "name": "Riolu",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 448,
+    "name": "Lucario",
+    "type_primary": "Kampf",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 449,
+    "name": "Hippopotas",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 450,
+    "name": "Hippoterus",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 451,
+    "name": "Pionskora",
+    "type_primary": "Gift",
+    "type_secondary": "Käfer"
+  },
+  {
+    "id": 452,
+    "name": "Piondragi",
+    "type_primary": "Gift",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 453,
+    "name": "Glibunkel",
+    "type_primary": "Gift",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 454,
+    "name": "Toxiquak",
+    "type_primary": "Gift",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 455,
+    "name": "Venuflibis",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 456,
+    "name": "Finneon",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 457,
+    "name": "Lumineon",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 458,
+    "name": "Mantirps",
+    "type_primary": "Wasser",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 459,
+    "name": "Shnebedeck",
+    "type_primary": "Pflanze",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 460,
+    "name": "Rexblisar",
+    "type_primary": "Pflanze",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 461,
+    "name": "Snibunna",
+    "type_primary": "Unlicht",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 462,
+    "name": "Magnezone",
+    "type_primary": "Elektro",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 463,
+    "name": "Schlurplek",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 464,
+    "name": "Rihornior",
+    "type_primary": "Boden",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 465,
+    "name": "Tangoloss",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 466,
+    "name": "Elevoltek",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 467,
+    "name": "Magbrant",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 468,
+    "name": "Togekiss",
+    "type_primary": "Fee",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 469,
+    "name": "Yanmega",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 470,
+    "name": "Folipurba",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 471,
+    "name": "Glaziola",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 472,
+    "name": "Skorgro",
+    "type_primary": "Boden",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 473,
+    "name": "Mamutel",
+    "type_primary": "Eis",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 474,
+    "name": "Porygon-Z",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 475,
+    "name": "Galagladi",
+    "type_primary": "Psycho",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 476,
+    "name": "Voluminas",
+    "type_primary": "Gestein",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 477,
+    "name": "Zwirrfinst",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 478,
+    "name": "Frosdedje",
+    "type_primary": "Eis",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 479,
+    "name": "Rotom",
+    "type_primary": "Elektro",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 480,
+    "name": "Selfe",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 481,
+    "name": "Vesprit",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 482,
+    "name": "Tobutz",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 483,
+    "name": "Dialga",
+    "type_primary": "Stahl",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 484,
+    "name": "Palkia",
+    "type_primary": "Wasser",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 485,
+    "name": "Heatran",
+    "type_primary": "Feuer",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 486,
+    "name": "Regigigas",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 487,
+    "name": "Giratina",
+    "type_primary": "Geist",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 488,
+    "name": "Cresselia",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 489,
+    "name": "Phione",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 490,
+    "name": "Manaphy",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 491,
+    "name": "Darkrai",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 492,
+    "name": "Shaymin",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 493,
+    "name": "Arceus",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 494,
+    "name": "Victini",
+    "type_primary": "Psycho",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 495,
+    "name": "Serpifeu",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 496,
+    "name": "Efoserp",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 497,
+    "name": "Serpiroyal",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 498,
+    "name": "Floink",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 499,
+    "name": "Ferkokel",
+    "type_primary": "Feuer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 500,
+    "name": "Flambirex",
+    "type_primary": "Feuer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 501,
+    "name": "Ottaro",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 502,
+    "name": "Zwottronin",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 503,
+    "name": "Admurai",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 504,
+    "name": "Nagelotz",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 505,
+    "name": "Kukmarda",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 506,
+    "name": "Yorkleff",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 507,
+    "name": "Terribark",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 508,
+    "name": "Bissbark",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 509,
+    "name": "Felilou",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 510,
+    "name": "Kleoparda",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 511,
+    "name": "Vegimak",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 512,
+    "name": "Vegichita",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 513,
+    "name": "Grillmak",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 514,
+    "name": "Grillchita",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 515,
+    "name": "Sodamak",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 516,
+    "name": "Sodachita",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 517,
+    "name": "Somniam",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 518,
+    "name": "Somnivora",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 519,
+    "name": "Dusselgurr",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 520,
+    "name": "Navitaub",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 521,
+    "name": "Fasasnob",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 522,
+    "name": "Elezeba",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 523,
+    "name": "Zebritz",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 524,
+    "name": "Kiesling",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 525,
+    "name": "Sedimantur",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 526,
+    "name": "Brockoloss",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 527,
+    "name": "Fleknoil",
+    "type_primary": "Psycho",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 528,
+    "name": "Fletiamo",
+    "type_primary": "Psycho",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 529,
+    "name": "Rotomurf",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 530,
+    "name": "Stalobor",
+    "type_primary": "Boden",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 531,
+    "name": "Ohrdoch",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 532,
+    "name": "Praktibalk",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 533,
+    "name": "Strepoli",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 534,
+    "name": "Meistagrif",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 535,
+    "name": "Schallquap",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 536,
+    "name": "Mebrana",
+    "type_primary": "Wasser",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 537,
+    "name": "Branawarz",
+    "type_primary": "Wasser",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 538,
+    "name": "Jiutesto",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 539,
+    "name": "Karadonis",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 540,
+    "name": "Strawickl",
+    "type_primary": "Käfer",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 541,
+    "name": "Folikon",
+    "type_primary": "Käfer",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 542,
+    "name": "Matrifol",
+    "type_primary": "Käfer",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 543,
+    "name": "Toxiped",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 544,
+    "name": "Rollum",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 545,
+    "name": "Cerapendra",
+    "type_primary": "Käfer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 546,
+    "name": "Waumboll",
+    "type_primary": "Pflanze",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 547,
+    "name": "Elfun",
+    "type_primary": "Pflanze",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 548,
+    "name": "Lilminip",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 549,
+    "name": "Dressella",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 550,
+    "name": "Barschuft",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 551,
+    "name": "Ganovil",
+    "type_primary": "Boden",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 552,
+    "name": "Rokkaiman",
+    "type_primary": "Boden",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 553,
+    "name": "Rabigator",
+    "type_primary": "Boden",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 554,
+    "name": "Flampion",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 555,
+    "name": "Flampivian",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 556,
+    "name": "Maracamba",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 557,
+    "name": "Lithomith",
+    "type_primary": "Käfer",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 558,
+    "name": "Castellith",
+    "type_primary": "Käfer",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 559,
+    "name": "Zurrokex",
+    "type_primary": "Unlicht",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 560,
+    "name": "Irokex",
+    "type_primary": "Unlicht",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 561,
+    "name": "Symvolara",
+    "type_primary": "Psycho",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 562,
+    "name": "Makabaja",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 563,
+    "name": "Echnatoll",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 564,
+    "name": "Galapaflos",
+    "type_primary": "Wasser",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 565,
+    "name": "Karippas",
+    "type_primary": "Wasser",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 566,
+    "name": "Flapteryx",
+    "type_primary": "Gestein",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 567,
+    "name": "Aeropteryx",
+    "type_primary": "Gestein",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 568,
+    "name": "Unratütox",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 569,
+    "name": "Deponitox",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 570,
+    "name": "Zorua",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 571,
+    "name": "Zoroark",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 572,
+    "name": "Picochilla",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 573,
+    "name": "Chillabell",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 574,
+    "name": "Mollimorba",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 575,
+    "name": "Hypnomorba",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 576,
+    "name": "Morbitesse",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 577,
+    "name": "Monozyto",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 578,
+    "name": "Mitodos",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 579,
+    "name": "Zytomega",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 580,
+    "name": "Piccolente",
+    "type_primary": "Wasser",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 581,
+    "name": "Swaroness",
+    "type_primary": "Wasser",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 582,
+    "name": "Gelatini",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 583,
+    "name": "Gelatroppo",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 584,
+    "name": "Gelatwino",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 585,
+    "name": "Sesokitz",
+    "type_primary": "Normal",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 586,
+    "name": "Kronjuwild",
+    "type_primary": "Normal",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 587,
+    "name": "Emolga",
+    "type_primary": "Elektro",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 588,
+    "name": "Laukaps",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 589,
+    "name": "Cavalanzas",
+    "type_primary": "Käfer",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 590,
+    "name": "Tarnpignon",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 591,
+    "name": "Hutsassa",
+    "type_primary": "Pflanze",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 592,
+    "name": "Quabbel",
+    "type_primary": "Wasser",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 593,
+    "name": "Apoquallyp",
+    "type_primary": "Wasser",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 594,
+    "name": "Mamolida",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 595,
+    "name": "Wattzapf",
+    "type_primary": "Käfer",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 596,
+    "name": "Voltula",
+    "type_primary": "Käfer",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 597,
+    "name": "Kastadur",
+    "type_primary": "Pflanze",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 598,
+    "name": "Tentantel",
+    "type_primary": "Pflanze",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 599,
+    "name": "Klikk",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 600,
+    "name": "Kliklak",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 601,
+    "name": "Klikdiklak",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 602,
+    "name": "Zapplardin",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 603,
+    "name": "Zapplalek",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 604,
+    "name": "Zapplarang",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 605,
+    "name": "Pygraulon",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 606,
+    "name": "Megalon",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 607,
+    "name": "Lichtel",
+    "type_primary": "Geist",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 608,
+    "name": "Laternecto",
+    "type_primary": "Geist",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 609,
+    "name": "Skelabra",
+    "type_primary": "Geist",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 610,
+    "name": "Milza",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 611,
+    "name": "Sharfax",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 612,
+    "name": "Maxax",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 613,
+    "name": "Petznief",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 614,
+    "name": "Siberio",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 615,
+    "name": "Frigometri",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 616,
+    "name": "Schnuthelm",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 617,
+    "name": "Hydragil",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 618,
+    "name": "Flunschlik",
+    "type_primary": "Boden",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 619,
+    "name": "Lin-Fu",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 620,
+    "name": "Wie-Shu",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 621,
+    "name": "Shardrago",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 622,
+    "name": "Golbit",
+    "type_primary": "Boden",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 623,
+    "name": "Golgantes",
+    "type_primary": "Boden",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 624,
+    "name": "Gladiantri",
+    "type_primary": "Unlicht",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 625,
+    "name": "Caesurio",
+    "type_primary": "Unlicht",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 626,
+    "name": "Bisofank",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 627,
+    "name": "Geronimatz",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 628,
+    "name": "Washakwil",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 629,
+    "name": "Skallyk",
+    "type_primary": "Unlicht",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 630,
+    "name": "Grypheldis",
+    "type_primary": "Unlicht",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 631,
+    "name": "Furnifraß",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 632,
+    "name": "Fermicula",
+    "type_primary": "Käfer",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 633,
+    "name": "Kapuno",
+    "type_primary": "Unlicht",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 634,
+    "name": "Duodino",
+    "type_primary": "Unlicht",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 635,
+    "name": "Trikephalo",
+    "type_primary": "Unlicht",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 636,
+    "name": "Ignivor",
+    "type_primary": "Käfer",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 637,
+    "name": "Ramoth",
+    "type_primary": "Käfer",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 638,
+    "name": "Kobalium",
+    "type_primary": "Stahl",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 639,
+    "name": "Terrakium",
+    "type_primary": "Gestein",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 640,
+    "name": "Viridium",
+    "type_primary": "Pflanze",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 641,
+    "name": "Boreos",
+    "type_primary": "Flug",
+    "type_secondary": null
+  },
+  {
+    "id": 642,
+    "name": "Voltolos",
+    "type_primary": "Elektro",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 643,
+    "name": "Reshiram",
+    "type_primary": "Drache",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 644,
+    "name": "Zekrom",
+    "type_primary": "Drache",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 645,
+    "name": "Demeteros",
+    "type_primary": "Boden",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 646,
+    "name": "Kyurem",
+    "type_primary": "Drache",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 647,
+    "name": "Keldeo",
+    "type_primary": "Wasser",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 648,
+    "name": "Meloetta",
+    "type_primary": "Normal",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 649,
+    "name": "Genesect",
+    "type_primary": "Käfer",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 650,
+    "name": "Igamaro",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 651,
+    "name": "Igastarnish",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 652,
+    "name": "Brigaron",
+    "type_primary": "Pflanze",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 653,
+    "name": "Fynx",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 654,
+    "name": "Rutena",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 655,
+    "name": "Fennexis",
+    "type_primary": "Feuer",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 656,
+    "name": "Froxy",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 657,
+    "name": "Amphizel",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 658,
+    "name": "Quajutsu",
+    "type_primary": "Wasser",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 659,
+    "name": "Scoppel",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 660,
+    "name": "Grebbit",
+    "type_primary": "Normal",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 661,
+    "name": "Dartiri",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 662,
+    "name": "Dartignis",
+    "type_primary": "Feuer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 663,
+    "name": "Fiaro",
+    "type_primary": "Feuer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 664,
+    "name": "Purmel",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 665,
+    "name": "Puponcho",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 666,
+    "name": "Vivillon",
+    "type_primary": "Käfer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 667,
+    "name": "Leufeo",
+    "type_primary": "Feuer",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 668,
+    "name": "Pyroleo",
+    "type_primary": "Feuer",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 669,
+    "name": "Flabébé",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 670,
+    "name": "Floette",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 671,
+    "name": "Florges",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 672,
+    "name": "Mähikel",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 673,
+    "name": "Chevrumm",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 674,
+    "name": "Pam-Pam",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 675,
+    "name": "Pandagro",
+    "type_primary": "Kampf",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 676,
+    "name": "Coiffwaff",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 677,
+    "name": "Psiau",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 678,
+    "name": "Psiaugon",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 679,
+    "name": "Gramokles",
+    "type_primary": "Stahl",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 680,
+    "name": "Duokles",
+    "type_primary": "Stahl",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 681,
+    "name": "Durengard",
+    "type_primary": "Stahl",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 682,
+    "name": "Parfi",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 683,
+    "name": "Parfinesse",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 684,
+    "name": "Flauschling",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 685,
+    "name": "Sabbaione",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 686,
+    "name": "Iscalar",
+    "type_primary": "Unlicht",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 687,
+    "name": "Calamanero",
+    "type_primary": "Unlicht",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 688,
+    "name": "Bithora",
+    "type_primary": "Gestein",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 689,
+    "name": "Thanathora",
+    "type_primary": "Gestein",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 690,
+    "name": "Algitt",
+    "type_primary": "Gift",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 691,
+    "name": "Tandrak",
+    "type_primary": "Gift",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 692,
+    "name": "Scampisto",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 693,
+    "name": "Wummer",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 694,
+    "name": "Eguana",
+    "type_primary": "Elektro",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 695,
+    "name": "Elezard",
+    "type_primary": "Elektro",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 696,
+    "name": "Balgoras",
+    "type_primary": "Gestein",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 697,
+    "name": "Monargoras",
+    "type_primary": "Gestein",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 698,
+    "name": "Amarino",
+    "type_primary": "Gestein",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 699,
+    "name": "Amagarga",
+    "type_primary": "Gestein",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 700,
+    "name": "Feelinara",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 701,
+    "name": "Resladero",
+    "type_primary": "Kampf",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 702,
+    "name": "Dedenne",
+    "type_primary": "Elektro",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 703,
+    "name": "Rocara",
+    "type_primary": "Gestein",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 704,
+    "name": "Viscora",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 705,
+    "name": "Viscargot",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 706,
+    "name": "Viscogon",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 707,
+    "name": "Clavion",
+    "type_primary": "Stahl",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 708,
+    "name": "Paragoni",
+    "type_primary": "Geist",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 709,
+    "name": "Trombork",
+    "type_primary": "Geist",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 710,
+    "name": "Irrbis",
+    "type_primary": "Geist",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 711,
+    "name": "Pumpdjinn",
+    "type_primary": "Geist",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 712,
+    "name": "Arktip",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 713,
+    "name": "Arktilas",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 714,
+    "name": "eF-eM",
+    "type_primary": "Flug",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 715,
+    "name": "UHaFnir",
+    "type_primary": "Flug",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 716,
+    "name": "Xerneas",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 717,
+    "name": "Yveltal",
+    "type_primary": "Unlicht",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 718,
+    "name": "Zygarde",
+    "type_primary": "Drache",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 719,
+    "name": "Diancie",
+    "type_primary": "Gestein",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 720,
+    "name": "Hoopa",
+    "type_primary": "Psycho",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 721,
+    "name": "Volcanion",
+    "type_primary": "Feuer",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 722,
+    "name": "Bauz",
+    "type_primary": "Pflanze",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 723,
+    "name": "Arboretoss",
+    "type_primary": "Pflanze",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 724,
+    "name": "Silvarro",
+    "type_primary": "Pflanze",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 725,
+    "name": "Flamiau",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 726,
+    "name": "Miezunder",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 727,
+    "name": "Fuegro",
+    "type_primary": "Feuer",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 728,
+    "name": "Robball",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 729,
+    "name": "Marikeck",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 730,
+    "name": "Primarene",
+    "type_primary": "Wasser",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 731,
+    "name": "Peppeck",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 732,
+    "name": "Trompeck",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 733,
+    "name": "Tukanon",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 734,
+    "name": "Mangunior",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 735,
+    "name": "Manguspektor",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 736,
+    "name": "Mabula",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 737,
+    "name": "Akkup",
+    "type_primary": "Käfer",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 738,
+    "name": "Donarion",
+    "type_primary": "Käfer",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 739,
+    "name": "Krabbox",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 740,
+    "name": "Krawell",
+    "type_primary": "Kampf",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 741,
+    "name": "Choreogel",
+    "type_primary": "Feuer",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 742,
+    "name": "Wommel",
+    "type_primary": "Käfer",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 743,
+    "name": "Bandelby",
+    "type_primary": "Käfer",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 744,
+    "name": "Wuffels",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 745,
+    "name": "Wolwerock",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 746,
+    "name": "Lusardin",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 747,
+    "name": "Garstella",
+    "type_primary": "Gift",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 748,
+    "name": "Aggrostella",
+    "type_primary": "Gift",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 749,
+    "name": "Pampuli",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 750,
+    "name": "Pampross",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 751,
+    "name": "Araqua",
+    "type_primary": "Wasser",
+    "type_secondary": "Käfer"
+  },
+  {
+    "id": 752,
+    "name": "Aranestro",
+    "type_primary": "Wasser",
+    "type_secondary": "Käfer"
+  },
+  {
+    "id": 753,
+    "name": "Imantis",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 754,
+    "name": "Mantidea",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 755,
+    "name": "Bubungus",
+    "type_primary": "Pflanze",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 756,
+    "name": "Lamellux",
+    "type_primary": "Pflanze",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 757,
+    "name": "Molunk",
+    "type_primary": "Gift",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 758,
+    "name": "Amfira",
+    "type_primary": "Gift",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 759,
+    "name": "Velursi",
+    "type_primary": "Normal",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 760,
+    "name": "Kosturso",
+    "type_primary": "Normal",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 761,
+    "name": "Frubberl",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 762,
+    "name": "Frubaila",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 763,
+    "name": "Fruyal",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 764,
+    "name": "Curelei",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 765,
+    "name": "Kommandutan",
+    "type_primary": "Normal",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 766,
+    "name": "Quartermak",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 767,
+    "name": "Reißlaus",
+    "type_primary": "Käfer",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 768,
+    "name": "Tectass",
+    "type_primary": "Käfer",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 769,
+    "name": "Sankabuh",
+    "type_primary": "Geist",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 770,
+    "name": "Colossand",
+    "type_primary": "Geist",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 771,
+    "name": "Gufa",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 772,
+    "name": "Typ:Null",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 773,
+    "name": "Amigento",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 774,
+    "name": "Meteno",
+    "type_primary": "Gestein",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 775,
+    "name": "Koalelu",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 776,
+    "name": "Tortunator",
+    "type_primary": "Feuer",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 777,
+    "name": "Togedemaru",
+    "type_primary": "Elektro",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 778,
+    "name": "Mimigma",
+    "type_primary": "Geist",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 779,
+    "name": "Knirfish",
+    "type_primary": "Wasser",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 780,
+    "name": "Sen-Long",
+    "type_primary": "Normal",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 781,
+    "name": "Moruda",
+    "type_primary": "Geist",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 782,
+    "name": "Miniras",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 783,
+    "name": "Mediras",
+    "type_primary": "Drache",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 784,
+    "name": "Grandiras",
+    "type_primary": "Drache",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 785,
+    "name": "Kapu-Riki",
+    "type_primary": "Elektro",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 786,
+    "name": "Kapu-Fala",
+    "type_primary": "Psycho",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 787,
+    "name": "Kapu-Toro",
+    "type_primary": "Pflanze",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 788,
+    "name": "Kapu-Kime",
+    "type_primary": "Wasser",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 789,
+    "name": "Cosmog",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 790,
+    "name": "Cosmovum",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 791,
+    "name": "Solgaleo",
+    "type_primary": "Psycho",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 792,
+    "name": "Lunala",
+    "type_primary": "Psycho",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 793,
+    "name": "Anego",
+    "type_primary": "Gestein",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 794,
+    "name": "Masskito",
+    "type_primary": "Käfer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 795,
+    "name": "Schabelle",
+    "type_primary": "Käfer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 796,
+    "name": "Voltriant",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 797,
+    "name": "Kaguron",
+    "type_primary": "Stahl",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 798,
+    "name": "Katagami",
+    "type_primary": "Pflanze",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 799,
+    "name": "Schlingking",
+    "type_primary": "Unlicht",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 800,
+    "name": "Necrozma",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 801,
+    "name": "Magearna",
+    "type_primary": "Stahl",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 802,
+    "name": "Marshadow",
+    "type_primary": "Kampf",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 803,
+    "name": "Venicro",
+    "type_primary": "Gift",
+    "type_secondary": null
+  },
+  {
+    "id": 804,
+    "name": "Agoyon",
+    "type_primary": "Gift",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 805,
+    "name": "Muramura",
+    "type_primary": "Gestein",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 806,
+    "name": "Kopplosio",
+    "type_primary": "Feuer",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 807,
+    "name": "Zeraora",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 808,
+    "name": "Meltan",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 809,
+    "name": "Melmetal",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 810,
+    "name": "Chimpep",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 811,
+    "name": "Chimstix",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 812,
+    "name": "Gortrom",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 813,
+    "name": "Hopplo",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 814,
+    "name": "Kickerlo",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 815,
+    "name": "Liberlo",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 816,
+    "name": "Memmeon",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 817,
+    "name": "Phlegleon",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 818,
+    "name": "Intelleon",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 819,
+    "name": "Raffel",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 820,
+    "name": "Schlaraffel",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 821,
+    "name": "Meikro",
+    "type_primary": "Flug",
+    "type_secondary": null
+  },
+  {
+    "id": 822,
+    "name": "Kranoviz",
+    "type_primary": "Flug",
+    "type_secondary": null
+  },
+  {
+    "id": 823,
+    "name": "Krarmor",
+    "type_primary": "Flug",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 824,
+    "name": "Sensect",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 825,
+    "name": "Keradar",
+    "type_primary": "Käfer",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 826,
+    "name": "Maritellit",
+    "type_primary": "Käfer",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 827,
+    "name": "Kleptifux",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 828,
+    "name": "Gaunux",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 829,
+    "name": "Cottini",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 830,
+    "name": "Cottomi",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 831,
+    "name": "Wolly",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 832,
+    "name": "Zwollock",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 833,
+    "name": "Kamehaps",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 834,
+    "name": "Kamalm",
+    "type_primary": "Wasser",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 835,
+    "name": "Voldi",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 836,
+    "name": "Bellektro",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 837,
+    "name": "Klonkett",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 838,
+    "name": "Wagong",
+    "type_primary": "Gestein",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 839,
+    "name": "Montecarbo",
+    "type_primary": "Gestein",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 840,
+    "name": "Knapfel",
+    "type_primary": "Pflanze",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 841,
+    "name": "Drapfel",
+    "type_primary": "Pflanze",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 842,
+    "name": "Schlapfel",
+    "type_primary": "Pflanze",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 843,
+    "name": "Salanga",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 844,
+    "name": "Sanaconda",
+    "type_primary": "Boden",
+    "type_secondary": null
+  },
+  {
+    "id": 845,
+    "name": "Urgl",
+    "type_primary": "Flug",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 846,
+    "name": "Pikuda",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 847,
+    "name": "Barrakiefa",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 848,
+    "name": "Toxel",
+    "type_primary": "Elektro",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 849,
+    "name": "Riffex",
+    "type_primary": "Elektro",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 850,
+    "name": "Thermopod",
+    "type_primary": "Feuer",
+    "type_secondary": "Käfer"
+  },
+  {
+    "id": 851,
+    "name": "Infernopod",
+    "type_primary": "Feuer",
+    "type_secondary": "Käfer"
+  },
+  {
+    "id": 852,
+    "name": "Klopptopus",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 853,
+    "name": "Kaocto",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 854,
+    "name": "Fatalitee",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 855,
+    "name": "Mortipot",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 856,
+    "name": "Brimova",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 857,
+    "name": "Brimano",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 858,
+    "name": "Silembrim",
+    "type_primary": "Psycho",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 859,
+    "name": "Bähmon",
+    "type_primary": "Unlicht",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 860,
+    "name": "Pelzebub",
+    "type_primary": "Unlicht",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 861,
+    "name": "Olangaar",
+    "type_primary": "Unlicht",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 862,
+    "name": "Barrikadax",
+    "type_primary": "Unlicht",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 863,
+    "name": "Mauzinger",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 864,
+    "name": "Gorgasonn",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 865,
+    "name": "Lauchzelot",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 866,
+    "name": "Pantifrost",
+    "type_primary": "Eis",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 867,
+    "name": "Oghnatoll",
+    "type_primary": "Boden",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 868,
+    "name": "Hokumil",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 869,
+    "name": "Pokusan",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 870,
+    "name": "Legios",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 871,
+    "name": "Britzigel",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 872,
+    "name": "Snomnom",
+    "type_primary": "Eis",
+    "type_secondary": "Käfer"
+  },
+  {
+    "id": 873,
+    "name": "Mottineva",
+    "type_primary": "Eis",
+    "type_secondary": "Käfer"
+  },
+  {
+    "id": 874,
+    "name": "Humanolith",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 875,
+    "name": "Kubuin",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 876,
+    "name": "Servol",
+    "type_primary": "Psycho",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 877,
+    "name": "Morpeko",
+    "type_primary": "Elektro",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 878,
+    "name": "Kupfanti",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 879,
+    "name": "Patinaraja",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 880,
+    "name": "Lectragon",
+    "type_primary": "Elektro",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 881,
+    "name": "Lecryodon",
+    "type_primary": "Elektro",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 882,
+    "name": "Pescragon",
+    "type_primary": "Wasser",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 883,
+    "name": "Pescryodon",
+    "type_primary": "Wasser",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 884,
+    "name": "Duraludon",
+    "type_primary": "Stahl",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 885,
+    "name": "Grolldra",
+    "type_primary": "Drache",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 886,
+    "name": "Phandra",
+    "type_primary": "Drache",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 887,
+    "name": "Katapuldra",
+    "type_primary": "Drache",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 888,
+    "name": "Zacian",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 889,
+    "name": "Zamazenta",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 890,
+    "name": "Endynalos",
+    "type_primary": "Gift",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 891,
+    "name": "Dakuma",
+    "type_primary": "Kampf",
+    "type_secondary": null
+  },
+  {
+    "id": 892,
+    "name": "Wulaosu",
+    "type_primary": "Kampf",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 893,
+    "name": "Zarude",
+    "type_primary": "Unlicht",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 894,
+    "name": "Regieleki",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 895,
+    "name": "Regidrago",
+    "type_primary": "Drache",
+    "type_secondary": null
+  },
+  {
+    "id": 896,
+    "name": "Polaross",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 897,
+    "name": "Phantoross",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 898,
+    "name": "Coronospa",
+    "type_primary": "Psycho",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 899,
+    "name": "Damythir",
+    "type_primary": "Normal",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 900,
+    "name": "Axantor",
+    "type_primary": "Käfer",
+    "type_secondary": "Gestein"
+  },
+  {
+    "id": 901,
+    "name": "Ursaluna",
+    "type_primary": "Boden",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 902,
+    "name": "Salmagnis",
+    "type_primary": "Wasser",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 903,
+    "name": "Snieboss",
+    "type_primary": "Kampf",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 904,
+    "name": "Myriador",
+    "type_primary": "Unlicht",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 905,
+    "name": "Cupidos",
+    "type_primary": "Fee",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 906,
+    "name": "Felori",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 907,
+    "name": "Feliospa",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 908,
+    "name": "Maskagato",
+    "type_primary": "Pflanze",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 909,
+    "name": "Krokel",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 910,
+    "name": "Lokroko",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 911,
+    "name": "Skelokrok",
+    "type_primary": "Feuer",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 912,
+    "name": "Kwaks",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 913,
+    "name": "Fuentente",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 914,
+    "name": "Bailonda",
+    "type_primary": "Wasser",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 915,
+    "name": "Ferkuli",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 916,
+    "name": "Fragrunz",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 917,
+    "name": "Tarundel",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 918,
+    "name": "Spinsidias",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 919,
+    "name": "Micrick",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 920,
+    "name": "Lextremo",
+    "type_primary": "Käfer",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 921,
+    "name": "Pamo",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 922,
+    "name": "Pamamo",
+    "type_primary": "Elektro",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 923,
+    "name": "Pamomamo",
+    "type_primary": "Elektro",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 924,
+    "name": "Zwieps",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 925,
+    "name": "Famieps",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 926,
+    "name": "Hefel",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 927,
+    "name": "Backel",
+    "type_primary": "Fee",
+    "type_secondary": null
+  },
+  {
+    "id": 928,
+    "name": "Olini",
+    "type_primary": "Pflanze",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 929,
+    "name": "Olivinio",
+    "type_primary": "Pflanze",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 930,
+    "name": "Olithena",
+    "type_primary": "Pflanze",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 931,
+    "name": "Krawalloro",
+    "type_primary": "Normal",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 932,
+    "name": "Geosali",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 933,
+    "name": "Sedisal",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 934,
+    "name": "Saltigant",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 935,
+    "name": "Knarbon",
+    "type_primary": "Feuer",
+    "type_secondary": null
+  },
+  {
+    "id": 936,
+    "name": "Crimanzo",
+    "type_primary": "Feuer",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 937,
+    "name": "Azugladis",
+    "type_primary": "Feuer",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 938,
+    "name": "Blipp",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 939,
+    "name": "Wampitz",
+    "type_primary": "Elektro",
+    "type_secondary": null
+  },
+  {
+    "id": 940,
+    "name": "Voltrel",
+    "type_primary": "Elektro",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 941,
+    "name": "Voltrean",
+    "type_primary": "Elektro",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 942,
+    "name": "Mobtiff",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 943,
+    "name": "Mastifioso",
+    "type_primary": "Unlicht",
+    "type_secondary": null
+  },
+  {
+    "id": 944,
+    "name": "Sproxi",
+    "type_primary": "Gift",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 945,
+    "name": "Affiti",
+    "type_primary": "Gift",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 946,
+    "name": "Weherba",
+    "type_primary": "Pflanze",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 947,
+    "name": "Horrerba",
+    "type_primary": "Pflanze",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 948,
+    "name": "Tentagra",
+    "type_primary": "Boden",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 949,
+    "name": "Tenterra",
+    "type_primary": "Boden",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 950,
+    "name": "Klibbe",
+    "type_primary": "Gestein",
+    "type_secondary": null
+  },
+  {
+    "id": 951,
+    "name": "Chilingel",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 952,
+    "name": "Halupenjo",
+    "type_primary": "Pflanze",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 953,
+    "name": "Relluk",
+    "type_primary": "Käfer",
+    "type_secondary": null
+  },
+  {
+    "id": 954,
+    "name": "Skarabaks",
+    "type_primary": "Käfer",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 955,
+    "name": "Flattutu",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 956,
+    "name": "Psiopatra",
+    "type_primary": "Psycho",
+    "type_secondary": null
+  },
+  {
+    "id": 957,
+    "name": "Forgita",
+    "type_primary": "Fee",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 958,
+    "name": "Tafforgita",
+    "type_primary": "Fee",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 959,
+    "name": "Granforgita",
+    "type_primary": "Fee",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 960,
+    "name": "Schligda",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 961,
+    "name": "Schligdri",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 962,
+    "name": "Adebom",
+    "type_primary": "Flug",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 963,
+    "name": "Normifin",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 964,
+    "name": "Delfinator",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 965,
+    "name": "Knattox",
+    "type_primary": "Stahl",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 966,
+    "name": "Knattatox",
+    "type_primary": "Stahl",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 967,
+    "name": "Mopex",
+    "type_primary": "Drache",
+    "type_secondary": "Normal"
+  },
+  {
+    "id": 968,
+    "name": "Schlurm",
+    "type_primary": "Stahl",
+    "type_secondary": null
+  },
+  {
+    "id": 969,
+    "name": "Lumispross",
+    "type_primary": "Gestein",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 970,
+    "name": "Lumiflora",
+    "type_primary": "Gestein",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 971,
+    "name": "Gruff",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 972,
+    "name": "Friedwuff",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 973,
+    "name": "Flaminkno",
+    "type_primary": "Flug",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 974,
+    "name": "Flaniwal",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 975,
+    "name": "Kolowal",
+    "type_primary": "Eis",
+    "type_secondary": null
+  },
+  {
+    "id": 976,
+    "name": "Agiluza",
+    "type_primary": "Wasser",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 977,
+    "name": "Heerashai",
+    "type_primary": "Wasser",
+    "type_secondary": null
+  },
+  {
+    "id": 978,
+    "name": "Nigiragi",
+    "type_primary": "Drache",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 979,
+    "name": "Epitaff",
+    "type_primary": "Kampf",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 980,
+    "name": "Suelord",
+    "type_primary": "Gift",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 981,
+    "name": "Farigiraf",
+    "type_primary": "Normal",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 982,
+    "name": "Dummimisel",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 983,
+    "name": "Gladimperio",
+    "type_primary": "Unlicht",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 984,
+    "name": "Riesenzahn",
+    "type_primary": "Boden",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 985,
+    "name": "Brüllschweif",
+    "type_primary": "Fee",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 986,
+    "name": "Wutpilz",
+    "type_primary": "Pflanze",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 987,
+    "name": "Flatterhaar",
+    "type_primary": "Geist",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 988,
+    "name": "Kriechflügel",
+    "type_primary": "Käfer",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 989,
+    "name": "Sandfell",
+    "type_primary": "Elektro",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 990,
+    "name": "Eisenrad",
+    "type_primary": "Boden",
+    "type_secondary": "Stahl"
+  },
+  {
+    "id": 991,
+    "name": "Eisenbündel",
+    "type_primary": "Eis",
+    "type_secondary": "Wasser"
+  },
+  {
+    "id": 992,
+    "name": "Eisenhand",
+    "type_primary": "Kampf",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 993,
+    "name": "Eisenhals",
+    "type_primary": "Unlicht",
+    "type_secondary": "Flug"
+  },
+  {
+    "id": 994,
+    "name": "Eisenfalter",
+    "type_primary": "Feuer",
+    "type_secondary": "Gift"
+  },
+  {
+    "id": 995,
+    "name": "Eisendorn",
+    "type_primary": "Gestein",
+    "type_secondary": "Elektro"
+  },
+  {
+    "id": 996,
+    "name": "Frospino",
+    "type_primary": "Drache",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 997,
+    "name": "Cryospino",
+    "type_primary": "Drache",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 998,
+    "name": "Espinodon",
+    "type_primary": "Drache",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 999,
+    "name": "Gierspenst",
+    "type_primary": "Geist",
+    "type_secondary": null
+  },
+  {
+    "id": 1000,
+    "name": "Monetigo",
+    "type_primary": "Stahl",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 1001,
+    "name": "Chongjian",
+    "type_primary": "Unlicht",
+    "type_secondary": "Pflanze"
+  },
+  {
+    "id": 1002,
+    "name": "Baojian",
+    "type_primary": "Unlicht",
+    "type_secondary": "Eis"
+  },
+  {
+    "id": 1003,
+    "name": "Dinglu",
+    "type_primary": "Unlicht",
+    "type_secondary": "Boden"
+  },
+  {
+    "id": 1004,
+    "name": "Yuyu",
+    "type_primary": "Unlicht",
+    "type_secondary": "Feuer"
+  },
+  {
+    "id": 1005,
+    "name": "Donnersichel",
+    "type_primary": "Drache",
+    "type_secondary": "Unlicht"
+  },
+  {
+    "id": 1006,
+    "name": "Eisenkrieger",
+    "type_primary": "Fee",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 1007,
+    "name": "Koraidon",
+    "type_primary": "Kampf",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 1008,
+    "name": "Miraidon",
+    "type_primary": "Elektro",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 1009,
+    "name": "Windewoge",
+    "type_primary": "Wasser",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 1010,
+    "name": "Eisenblatt",
+    "type_primary": "Pflanze",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 1011,
+    "name": "Sirapfel",
+    "type_primary": "Pflanze",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 1012,
+    "name": "Mortcha",
+    "type_primary": "Pflanze",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 1013,
+    "name": "Fatalitcha",
+    "type_primary": "Pflanze",
+    "type_secondary": "Geist"
+  },
+  {
+    "id": 1014,
+    "name": "Boninu",
+    "type_primary": "Gift",
+    "type_secondary": "Kampf"
+  },
+  {
+    "id": 1015,
+    "name": "Benesaru",
+    "type_primary": "Gift",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 1016,
+    "name": "Beatori",
+    "type_primary": "Gift",
+    "type_secondary": "Fee"
+  },
+  {
+    "id": 1017,
+    "name": "Ogerpon",
+    "type_primary": "Pflanze",
+    "type_secondary": null
+  },
+  {
+    "id": 1018,
+    "name": "Briduradon",
+    "type_primary": "Stahl",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 1019,
+    "name": "Hydrapfel",
+    "type_primary": "Pflanze",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 1020,
+    "name": "Keilflamme",
+    "type_primary": "Feuer",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 1021,
+    "name": "Furienblitz",
+    "type_primary": "Elektro",
+    "type_secondary": "Drache"
+  },
+  {
+    "id": 1022,
+    "name": "Eisenfels",
+    "type_primary": "Gestein",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 1023,
+    "name": "Eisenhaupt",
+    "type_primary": "Stahl",
+    "type_secondary": "Psycho"
+  },
+  {
+    "id": 1024,
+    "name": "Terapagos",
+    "type_primary": "Normal",
+    "type_secondary": null
+  },
+  {
+    "id": 1025,
+    "name": "Infamomo",
+    "type_primary": "Gift",
+    "type_secondary": "Geist"
+  }
+]

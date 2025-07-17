@@ -41,10 +41,11 @@ const OverlayPlayer: React.FC = () => {
         p ? (
           <div key={p.id} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <img
-              src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.pokedexId || 359}.png`}
+              src={`/sprites/${p.pokedexId || 359}.png`}
               alt={p.species}
               style={{ width: 96, height: 96, background: 'rgba(0,0,0,0.7)', borderRadius: 8, border: '1.5px solid #bbb' }}
               loading="lazy"
+              onError={e => { (e.target as HTMLImageElement).src = '/sprites/359.png'; }}
             />
             <div
               style={{
