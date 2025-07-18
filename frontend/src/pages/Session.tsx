@@ -75,8 +75,8 @@ const sectionZoneStyle = {
   background: '#f7f7f7',
   border: '1px solid #ddd',
   borderRadius: 12,
-  padding: '1.5rem',
-  marginBottom: '2rem',
+  padding: '1rem',
+  marginBottom: '1rem',
   boxShadow: '0 2px 8px rgba(0,0,0,0.03)',
 };
 
@@ -299,7 +299,7 @@ const Session: React.FC = () => {
                 borderRight: idx === 0 ? '1px solid #ccc' : 'none',
                 paddingRight: idx === 0 ? 24 : 0
               }}>
-                <span style={{ display: 'flex', alignItems: 'center', gap: 12 }}><h3>{player.name}
+                <span style={{ display: 'flex', alignItems: 'center', gap: 12 }}><h3 style={{marginBottom: 5}}>{player.name}
                   <button
                     type="button"
                     onClick={async () => {
@@ -321,7 +321,7 @@ const Session: React.FC = () => {
                         background: p.status === 'dead' ? '#ffb3b3' : p.status === 'fainted' ? '#ffe0b3' : '#f8f9fa',
                         border: '1px solid #e9ecef',
                         borderRadius: 8,
-                        padding: 12,
+                        paddingRight: 5,
                         marginBottom: 8,
                         display: 'flex',
                         alignItems: 'center',
@@ -350,7 +350,7 @@ const Session: React.FC = () => {
                             />
                           ) : (
                             <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-                              <span style={{ fontWeight: 500, fontSize: 14 }}>
+                              <span style={{ fontWeight: 500, fontSize: 16 }}>
                                 {p.nickname ? `${p.nickname} (${p.species})` : p.species}
                               </span>
                               <button
@@ -402,7 +402,7 @@ const Session: React.FC = () => {
                         options={speciesOptions}
                         value={speciesOptions.find(opt => opt.value === pokemonForms[player.id]?.species) || null}
                         onChange={option => handlePokemonFormChange(player.id, 'species', option?.value)}
-                        placeholder="Select Pokémon..."
+                        placeholder="Pokémon"
                         isSearchable
                         styles={{ menu: base => ({ ...base, zIndex: 9999 }) }}
                         required
