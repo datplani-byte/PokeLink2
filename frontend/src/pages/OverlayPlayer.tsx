@@ -13,6 +13,13 @@ interface Pokemon {
 const OverlayPlayer: React.FC = () => {
   const { sessionId, playerName } = useParams();
   const [team, setTeam] = useState<Pokemon[]>([]);
+  const [pokedex, setPokedex] = useState<any[]>([]);
+
+  useEffect(() => {
+    fetch('/pokedex_de.json')
+      .then(res => res.json())
+      .then(setPokedex);
+  }, []);
 
   useEffect(() => {
     const fetchTeam = async () => {
@@ -36,17 +43,58 @@ const OverlayPlayer: React.FC = () => {
   const slots = Array.from({ length: 6 }, (_, i) => team[i] || null);
 
   return (
-    <div style={{ display: 'flex', gap: 4, background: 'transparent', padding: 8 }}>
+    <div style={{ display: 'flex', gap: 10, background: 'transparent', padding: 8 }}>
       {slots.map((p, i) =>
         p ? (
-          <div key={p.id} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-            <img
-              src={`/sprites/${p.pokedexId || 359}.png`}
-              alt={p.species}
-              style={{ width: 96, height: 96, background: 'rgba(0,0,0,0.7)', borderRadius: 8, border: '1.5px solid #bbb' }}
-              loading="lazy"
-              onError={e => { (e.target as HTMLImageElement).src = '/sprites/359.png'; }}
-            />
+          <div key={p.id} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', position: 'relative', width: 96 }}>
+            <div style={{ position: 'relative', width: 96, height: 96 }}>
+              <img
+                src={`/sprites/${p.pokedexId || 359}.png`}
+                alt={p.species}
+                style={{ width: 96, height: 96, background: 'rgba(0,0,0,0.7)', borderRadius: 2, border: '1.5px solid #bbb', zIndex: 1 }}
+                loading="lazy"
+                onError={e => { (e.target as HTMLImageElement).src = '/sprites/359.png'; }}
+              />
+              <div style={{
+                position: 'absolute',
+                left: '50%',
+                bottom: -2,
+                transform: 'translateX(-50%) translateX(1px)',
+                display: 'flex',
+                gap: 2,
+                zIndex: 2,
+                justifyContent: 'center',
+                alignItems: 'center',
+              }}>
+                {(() => {
+                  const entry = pokedex.find(mon => mon.id === p.pokedexId);
+                  if (!entry) return null;
+                  const getDisplayType = (type: string) => type === 'Fee' ? 'Normal' : type;
+                  const typeIcons = [];
+                  if (entry.type_primary) {
+                    typeIcons.push(
+                      <img
+                        key="type1"
+                        src={`/sprites/${getDisplayType(entry.type_primary)}.png`}
+                        alt={getDisplayType(entry.type_primary)}
+                        style={{ width: 48, height: 16, objectFit: 'none', display: 'inline-block', border: 'none', borderRadius: 0, background: 'transparent' }}
+                      />
+                    );
+                  }
+                  if (entry.type_secondary && entry.type_secondary !== entry.type_primary) {
+                    typeIcons.push(
+                      <img
+                        key="type2"
+                        src={`/sprites/${getDisplayType(entry.type_secondary)}.png`}
+                        alt={getDisplayType(entry.type_secondary)}
+                        style={{ width: 48, height: 16, objectFit: 'none', display: 'inline-block', border: 'none', borderRadius: 0, background: 'transparent' }}
+                      />
+                    );
+                  }
+                  return typeIcons;
+                })()}
+              </div>
+            </div>
             <div
               style={{
                 color: 'white',
